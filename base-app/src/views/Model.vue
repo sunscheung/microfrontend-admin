@@ -210,7 +210,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
 .list-edit-btn {
   margin-right: 10px;
 }

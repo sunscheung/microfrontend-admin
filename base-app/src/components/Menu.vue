@@ -119,7 +119,7 @@ export default {
 }
 </script>
 
-<style scoped lang="scss">
+<style scoped lang="less">
 .menu {
   height: 100%;
   border-top: 1px solid #dcdee2;

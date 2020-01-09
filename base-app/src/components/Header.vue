@@ -79,7 +79,7 @@ export default {
 }
 </script>
 
-<style scoped lang="scss">
+<style scoped lang="less">
 .header {
   height: 100%;
   width: 100%;
